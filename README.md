@@ -2,7 +2,7 @@
 
 <h1 align="center">Hey there, I'm Manish Mahawar! 👋</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;React+%2F+Next.js+%2F+MERN+Stack+Engineer+%E2%9A%99%EF%B8%8F;Mobile+Dev+with+React+Native+%F0%9F%94%8C;Lifelong+Learner+%E2%9C%8C%EF%B8%8F;Open+to+Collaboration+%F0%9F%92%97" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&color=00FFFF&center=true&vCenter=true&width=900&lines=Aspiring+Full+Stack+Developer+%F0%9F%A7%91%E2%80%8D%F0%9F%92%BB;React+%2F+Next.js+%2F+MERN+Stack+Engineer+%E2%9A%99%EF%B8%8F;Lifelong+Learner+%E2%9C%8C%EF%B8%8F;Open+to+Collaboration+%F0%9F%92%97" />
 </p>
 
 ---
@@ -70,4 +70,5 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=150&section=footer" />
 </p>
+
 
