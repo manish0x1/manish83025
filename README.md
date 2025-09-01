@@ -63,13 +63,14 @@
 
 ### 💬 Fun Fact
 
-> I love merging design with logic — whether it’s building intuitive UIs, scaling backend APIs, or exploring the latest AI integrations. Let’s code something extraordinary together! ✨
+>I love mixing creativity with code — whether it’s crafting pixel-perfect UI, optimizing server logic, or tinkering with AI experiments. Ready to build the future? ✨
 
 ---
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00ffff&height=150&section=footer" />
 </p>
+
 
 
 
